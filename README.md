@@ -3,7 +3,7 @@
 ## NUMERICAL PYTHON (NUMPY)
 
 ##### Amiel Elestin M. Cruz
-##### 2ECE-D
+##### 2ECE-B
 
 ### 1. Normalization Problem
 Normalization is one of the
